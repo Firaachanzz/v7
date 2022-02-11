@@ -20,7 +20,7 @@
 
 Click the deploy icon below !
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Haikalbotz/v7)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Firaachanzz/v7)
 
 # ```SC HAIKAL JELEK```
 <p align="center">
